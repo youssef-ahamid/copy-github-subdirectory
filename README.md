@@ -13,5 +13,5 @@ OUTPUT_DIR="<path/to/output/directory>"
 
 ### Run the script
 ```bash
-./fetch-github-repo.sh
+./fetch-github-subdirectory.sh
 ```
