@@ -10,6 +10,10 @@ BRANCH="<branch-name>"
 OUTPUT_DIR="<path/to/output/directory>"
 ```
 
+### Mark the script as an executable
+```bash
+chmod +x ./fetch-github-subdirectory.sh 
+```
 
 ### Run the script
 ```bash
